@@ -7,8 +7,8 @@
 **Packages:** pandas, numpy, matplotlib, seaborn, nltk, transformers <br>
 **Hugging Face Models**: https://huggingface.co/models?pipeline_tag=text-classification&sort=trending <br>
 **Dataset**: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews <br>
-**Transformers Documentation**: https://huggingface.co/docs/transformers/index
-**Pipeline Documentation**: https://huggingface.co/docs/transformers/main/en/quicktour#pipeline
+**Transformers Documentation**: https://huggingface.co/docs/transformers/index<br>
+**Pipeline Documentation**: https://huggingface.co/docs/transformers/main/en/quicktour#pipeline<br>
 
 ## Detailed blog post
 https://hahoangpro.wixsite.com/datascience/post/classifying-amazon-reviews-sentiment-analysis-with-nltk-and-transformers
