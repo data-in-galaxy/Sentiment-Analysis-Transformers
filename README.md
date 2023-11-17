@@ -11,7 +11,7 @@
 **Pipeline Documentation**: https://huggingface.co/docs/transformers/main/en/quicktour#pipeline
 
 ## Detailed blog post
-
+https://hahoangpro.wixsite.com/datascience/post/classifying-amazon-reviews-sentiment-analysis-with-nltk-and-transformers
 
 ## Additional projects
 https://hahoangpro.wixsite.com/datascience/blog
